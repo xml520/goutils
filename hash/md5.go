@@ -2,6 +2,6 @@ package hash
 
 import "fmt"
 
-func test() {
+func StringMd5() {
 	fmt.Println("sss")
 }
